@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Matteturtle09)](https://git.io/typing-svg)
 ------
 **Developer | Full Stack | from Italy 🇮🇹**
-- 🔭 I’m currently working on a crypto-based vending machine
+- 🔭 I’m currently working on an ai app
 - 🌱 I’m currently learning new techs
 
 ## Tools and Languages
