@@ -2,7 +2,7 @@
 ------
 **Developer | Full Stack | from Italy 🇮🇹**
 - 🔭 I’m currently working on a crypto-based vending machine
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning new techs
 
 ## Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,nodejs,mongodb,firebase,react,nextjs,html,tailwind,arduino,raspberrypi,linux,python,tensorflow,vscode,github,docker,supabase,express,discord,solidity,)](https://skillicons.dev)
