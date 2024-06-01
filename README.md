@@ -15,4 +15,5 @@
 
 ## Metrics
 <img src="https://github-profile-trophy.vercel.app/?username=matteturtle09&theme=juicyfresh&no-bg=true" />
-![Contribution](https://activity-graph.herokuapp.com/graph?username=matteturtle09&theme=react-dark&hide_border=true&area=true)
+
+[![Contribution](https://activity-graph.herokuapp.com/graph?username=matteturtle09&theme=react-dark&hide_border=true&area=true)]
