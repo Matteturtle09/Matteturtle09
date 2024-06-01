@@ -15,5 +15,3 @@
 
 ## Metrics
 <img src="https://github-profile-trophy.vercel.app/?username=matteturtle09&theme=juicyfresh&no-bg=true" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteturtle09&hide=contribs,prs)
