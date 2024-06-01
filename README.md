@@ -15,4 +15,4 @@
 
 ## Metrics
 <img src="https://github-profile-trophy.vercel.app/?username=matteturtle09&theme=juicyfresh&no-bg=true" />
-<img src="https://myreadme.vercel.app/api/embed/matteturle09?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Contribution](https://activity-graph.herokuapp.com/graph?username=matteturtle09&theme=react-dark&hide_border=true&area=true)
