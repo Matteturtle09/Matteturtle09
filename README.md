@@ -12,6 +12,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Matteturtle09/Matteturtle09/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<br>
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/matteturtle09/count.svg" />
+</p>
 
 ## Metrics
 <img src="https://github-profile-trophy.vercel.app/?username=matteturtle09&theme=juicyfresh&no-bg=true" />
